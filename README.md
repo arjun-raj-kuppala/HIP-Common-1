@@ -158,3 +158,4 @@ If reporting a bug, include the output of "hipconfig --full" and samples/1_hipIn
 
 test
 test
+test
