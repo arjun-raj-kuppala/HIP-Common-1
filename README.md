@@ -157,3 +157,4 @@ Use the [GitHub issue tracker](https://github.com/ROCm-Developer-Tools/HIP/issue
 If reporting a bug, include the output of "hipconfig --full" and samples/1_hipInfo/hipInfo (if possible).
 
 test
+test
